@@ -1,0 +1,8 @@
+Name,Age,Status,Department,Price,Quantity
+Alice,25,Pending,Sales,120,2
+Bob,32,Approved,Marketing,100,5
+Charlie,28,Pending,Finance,200,1
+Diana,45,Open,Sales,150,3
+Eve,30,Approved,HR,175,4
+Frank,29,Pending,IT,90,6
+Grace,38,Open,Finance,300,2

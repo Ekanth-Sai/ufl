@@ -1,0 +1,43 @@
+
+---
+Prompt: Increase all prices by 5
+Timestamp: 1749953863
+Sample Input:
+text
+product: Pen
+price: 10
+product: Book
+price: 20
+
+Output Head:
+ text,product: Pen,price: 15,product: Book,price: 25
+
+
+---
+Prompt: Increase all salaries by 10%
+Timestamp: 1749953939
+Sample Input:
+text
+"Employee, Salary"
+"John, 30000"
+"Jane, 40000"
+
+Output Head:
+ text,Salary
+John,33000
+Jane,44000
+
+
+---
+Prompt: Multiply all prices by 2
+Timestamp: 1749953974
+Sample Input:
+name,price
+Pen,10
+Book,50
+
+Output Head:
+ name,price
+Pen,20
+Book,100
+

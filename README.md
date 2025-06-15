@@ -2,13 +2,15 @@
 
 A smart tool to ingest, extract, transform, and structure data from various file formats using a local LLM (used Phi via Ollama). Designed for data analysts to automate repetitive transformations and work with structured output like CSV/JSON.
 
+---
+
 ## Features
 
-- 📄 Upload and parse files: CSV, Excel, PDF, DOCX.
-- 🧠 Prompt-based data transformation using local LLMs
-- 🧾 Output structured results in CSV/JSON/XLSX
-- 🔍 Detect and fix data issues (e.g., nulls, duplicates) (yet to be tested)
-- 🔁 Save transformation history and results
+- Upload and parse files: CSV, Excel, PDF, DOCX.
+- Prompt-based data transformation using local LLMs
+- Output structured results in CSV/JSON/XLSX
+- Detect and fix data issues (e.g., nulls, duplicates) (yet to be tested)
+- Save transformation history and results
 
 ---
 
